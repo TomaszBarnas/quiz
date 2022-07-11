@@ -1,0 +1,156 @@
+C:\Users\student\Desktop\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.exe
+C:\Users\student\Desktop\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.deps.json
+C:\Users\student\Desktop\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.json
+C:\Users\student\Desktop\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.dev.json
+C:\Users\student\Desktop\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.dll
+C:\Users\student\Desktop\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\LoadWindow.g.cs
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\QuizWindow.g.cs
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\ScoreWindow.g.cs
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.cache
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.lref
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\LoadWindow.baml
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\QuizWindow.baml
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\ScoreWindow.baml
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.g.resources
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfo.cs
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.dll
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\student\Desktop\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.genruntimeconfig.cache
+C:\Users\student\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.exe
+C:\Users\student\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.deps.json
+C:\Users\student\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.json
+C:\Users\student\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.dev.json
+C:\Users\student\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.dll
+C:\Users\student\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\LoadWindow.g.cs
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\QuizWindow.g.cs
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\ScoreWindow.g.cs
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.cache
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.lref
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\LoadWindow.baml
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\QuizWindow.baml
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\ScoreWindow.baml
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.g.resources
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfo.cs
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.dll
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\student\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.genruntimeconfig.cache
+C:\Users\teelx\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.exe
+C:\Users\teelx\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.deps.json
+C:\Users\teelx\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.json
+C:\Users\teelx\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.dev.json
+C:\Users\teelx\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.dll
+C:\Users\teelx\Desktop\Quizform101\quizform\bin\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.AssemblyReference.cache
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\LoadWindow.g.cs
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\QuizWindow.g.cs
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\ScoreWindow.g.cs
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.cache
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.lref
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\LoadWindow.baml
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\QuizWindow.baml
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\ScoreWindow.baml
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.g.resources
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfoInputs.cache
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfo.cs
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.CoreCompileInputs.cache
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.dll
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\teelx\Desktop\Quizform101\quizform\obj\Debug\netcoreapp3.1\quizform.genruntimeconfig.cache
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.exe
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.deps.json
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.json
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.dev.json
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.dll
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.AssemblyReference.cache
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\LoadWindow.g.cs
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Okno.g.cs
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.cache
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.lref
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\LoadWindow.baml
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Okno.baml
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.g.resources
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfoInputs.cache
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfo.cs
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.CoreCompileInputs.cache
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.dll
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.genruntimeconfig.cache
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Wyniki.g.cs
+C:\Users\teelx\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Wyniki.baml
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.exe
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.deps.json
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.json
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.dev.json
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.dll
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.pdb
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.AssemblyReference.cache
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\LoadWindow.g.cs
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Okno.g.cs
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Wyniki.g.cs
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\App.g.cs
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.cache
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.lref
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\LoadWindow.baml
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\MainWindow.baml
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Okno.baml
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Wyniki.baml
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.g.resources
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.GeneratedMSBuildEditorConfig.editorconfig
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfoInputs.cache
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfo.cs
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.CoreCompileInputs.cache
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.dll
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.pdb
+\\sglipl-fs02\Users\redirect\Z0096693\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.genruntimeconfig.cache
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\LoadWindow.g.cs
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Okno.g.cs
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Wyniki.g.cs
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.cache
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.lref
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.exe
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.deps.json
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.json
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.dll
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\bin\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\LoadWindow.baml
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Okno.baml
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\Wyniki.baml
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.g.resources
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.dll
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.genruntimeconfig.cache

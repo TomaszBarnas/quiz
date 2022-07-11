@@ -1,0 +1,12 @@
+Ktore ze zwierzat ma rogi?
+Koza
+Pies;Kot;Stonoga;
+Ktore zwierze zyje w oceanie?
+Ryba
+Stonoga;Malpa;Lew;
+Ktore zwierze zyje na ladzie?
+Iguana
+Ryba;Kalamarnica;Rekin;
+Ktore zwierze jest niebezpieczne?
+Tygrys
+Gekon;Biedronka;Kociaczek;

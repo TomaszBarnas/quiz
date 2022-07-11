@@ -1,0 +1,99 @@
+﻿<Window x:Class="quiz_tworzenie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:quiz_tworzenie"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="570" Width="1000">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="Beige"/>
+            <Setter Property="FontSize" Value="24"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="5,10,5,10"/>
+        </Style>
+    </Window.Resources>
+    
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0"
+                   Background="Azure" Orientation="Vertical" >
+            <StackPanel>
+                <TextBlock TextAlignment="Center" FontWeight="Bold">Nazwa Quizu</TextBlock>
+                <TextBox x:Name="QuizName" Background="White"></TextBox>
+            </StackPanel>
+            <TextBlock TextAlignment="Center" FontWeight="Bold">Pytanie</TextBlock>
+            <TextBox x:Name="textBox_pytanie"
+                     Background="White"/>
+            <TextBlock TextAlignment="Center" FontWeight="Bold">Pierwsza odpowiedź</TextBlock>
+            <TextBox x:Name="textBox_odp1"
+                     Background="White"/>
+            <TextBlock TextAlignment="Center" FontWeight="Bold">Druga odpowiedź</TextBlock>
+            <TextBox x:Name="textBox_odp2"
+                     Background="White"/>
+            <TextBlock TextAlignment="Center" FontWeight="Bold">Trzecia odpowiedź</TextBlock>
+            <TextBox x:Name="textBox_odp3"
+                     Background="White"/>
+            <TextBlock TextAlignment="Center" FontWeight="Bold">Czwarta odpowiedź</TextBlock>
+            <TextBox x:Name="textBox_odp4"
+                     Background="White"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50" ></RowDefinition>
+                    
+                </Grid.RowDefinitions>
+                <Viewbox>
+                <StackPanel Orientation="Horizontal">
+                <CheckBox x:Name="checkbox_odp1" Content="odp1" Checked="ch1" Unchecked="ch1"></CheckBox>
+                <CheckBox x:Name="checkbox_odp2" Content="odp2" Checked="ch2" Unchecked="ch2"></CheckBox>
+                <CheckBox x:Name="checkbox_odp3" Content="odp3" Checked="ch3" Unchecked="ch3"></CheckBox>
+                <CheckBox x:Name="checkbox_odp4" Content="odp4" Checked="ch4" Unchecked="ch4"></CheckBox>
+                </StackPanel>
+            </Viewbox>
+            </Grid>
+
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <ComboBox x:Name="combo"  Grid.Column="1" />
+            </Grid>
+            
+            <Grid Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Button Name="button_Dodaj"
+                    Content="Dodaj"
+                    Click="button_Dodaj_Click" Margin="5,0,21,0" Grid.Column="0"/>
+                <Button Name="button_Usun"
+                    Content="Usun"
+                    Click="button_Usun_Click" Grid.Column="1" Margin="5,0,21,0"/>
+                <Button Name="button_Edytuj"
+                    Content="Edytuj"
+                    Click="button_Dodaj_Click" Margin="5,0,21,0" Grid.Column="2"/>
+                <Button Name="button_wczytaj"
+                    Content="Wczytaj"
+                    Click="button_wczytaj_Click" Margin="5,0,21,0" Grid.Column="3"/>
+                <Button Name="button_Zapisz"
+                    Content="Zapisz"
+                    Click="button_Zapisz_Click" Margin="5,0,21,0" Grid.Column="4"/>
+            </Grid>
+
+        </StackPanel>
+        <ListBox Name="listbox_pytania" 
+                 Grid.Column="1"/>
+    </Grid>
+</Window>

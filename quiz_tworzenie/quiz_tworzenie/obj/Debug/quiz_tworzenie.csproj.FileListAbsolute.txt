@@ -1,0 +1,31 @@
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.csproj.AssemblyReference.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\MainWindow.g.cs
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\App.g.cs
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie_MarkupCompile.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie_MarkupCompile.lref
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\bin\Debug\quiz_tworzenie.exe.config
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\bin\Debug\quiz_tworzenie.exe
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\bin\Debug\quiz_tworzenie.pdb
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\MainWindow.baml
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.g.resources
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.Properties.Resources.resources
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.csproj.GenerateResource.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.csproj.CoreCompileInputs.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.exe
+D:\studia\sem IV\Programowanie obiektowe i graficzne\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.pdb
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\MainWindow.g.cs
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\App.g.cs
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie_MarkupCompile.cache
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie_MarkupCompile.lref
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.exe
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.pdb
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\bin\Debug\quiz_tworzenie.exe.config
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\bin\Debug\quiz_tworzenie.exe
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\bin\Debug\quiz_tworzenie.pdb
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\MainWindow.baml
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.g.resources
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.Properties.Resources.resources
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\quiz_tworzenie\quiz_tworzenie\obj\Debug\quiz_tworzenie.csproj.SuggestedBindingRedirects.cache
